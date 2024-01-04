@@ -1,4 +1,4 @@
-# Prueba de Concepto Criptógrafo - Encriptación Simétrica
+# Prueba de Concepto Criptógrafo - Encripción Simétrica
 
 La encripción de extremo a extremo es una medida de seguridad fundamental en el ámbito de la comunicación digital. Se refiere al proceso de cifrar la información de manera que solo el emisor y el receptor autorizados puedan acceder a su contenido, asegurando que nadie más, incluidos posibles intermediarios o terceros, pueda interceptar o entender la información transmitida. La importancia de la encriptación de extremo a extremo radica en la protección de la privacidad y la confidencialidad de la información en un mundo cada vez más conectado digitalmente que cobra relevancia para conservar la privacidad del usuario, protección contra intercepciones malintencionadas, seguridad en transacciones financieras y otros.
 
